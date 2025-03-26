@@ -109,6 +109,7 @@ a {
   letter-spacing: 0.02em;
   text-align: center;
   color: #2e2f42;
+  text-transform: capitalize;
 }
 
 .ourteam-subtitle {
@@ -129,6 +130,10 @@ a {
   color: #434455;
 }
 
+.ourteam-item {
+  background-color: #ffffff;
+}
+
 .ourportfolio-title {
   font-weight: 700;
   font-size: 36px;
@@ -136,6 +141,7 @@ a {
   letter-spacing: 0.02em;
   text-align: center;
   color: #2e2f42;
+  text-transform: capitalize;
 }
 
 .ourportfolio-subtitle {
