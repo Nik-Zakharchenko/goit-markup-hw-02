@@ -53,9 +53,7 @@ a {
 .nav-link:hover,
 .nav-link:focus,
 .contacts-link:hover,
-.contacts-link:focus,
-.hero-btn:hover,
-.hero-btn:focus {
+.contacts-link:focus {
   color: #404bbf;
 }
 
@@ -80,6 +78,11 @@ a {
   color: #fff;
   background-color: #4d5ae5;
   cursor: pointer;
+}
+
+.hero-btn:hover,
+.hero-btn:focus {
+  background-color: #404bbf;
 }
 
 .benefist-subtitle {
